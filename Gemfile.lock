@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    term-ansicolor (1.6.0)
+      tins (~> 1.0)
+    time-lord (1.0.1)
+    tins (1.15.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  term-ansicolor
+  time-lord
+
+BUNDLED WITH
+   1.10.6
